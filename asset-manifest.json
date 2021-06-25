@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-eShopp/static/css/main.fabb0724.chunk.css",
+    "main.js": "/react-eShopp/static/js/main.2126dba2.chunk.js",
+    "main.js.map": "/react-eShopp/static/js/main.2126dba2.chunk.js.map",
+    "runtime-main.js": "/react-eShopp/static/js/runtime-main.73648d94.js",
+    "runtime-main.js.map": "/react-eShopp/static/js/runtime-main.73648d94.js.map",
+    "static/css/2.f88f29be.chunk.css": "/react-eShopp/static/css/2.f88f29be.chunk.css",
+    "static/js/2.759e11c1.chunk.js": "/react-eShopp/static/js/2.759e11c1.chunk.js",
+    "static/js/2.759e11c1.chunk.js.map": "/react-eShopp/static/js/2.759e11c1.chunk.js.map",
+    "index.html": "/react-eShopp/index.html",
+    "static/css/2.f88f29be.chunk.css.map": "/react-eShopp/static/css/2.f88f29be.chunk.css.map",
+    "static/css/main.fabb0724.chunk.css.map": "/react-eShopp/static/css/main.fabb0724.chunk.css.map",
+    "static/js/2.759e11c1.chunk.js.LICENSE.txt": "/react-eShopp/static/js/2.759e11c1.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/react-eShopp/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73648d94.js",
+    "static/css/2.f88f29be.chunk.css",
+    "static/js/2.759e11c1.chunk.js",
+    "static/css/main.fabb0724.chunk.css",
+    "static/js/main.2126dba2.chunk.js"
+  ]
+}
